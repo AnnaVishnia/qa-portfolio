@@ -12,4 +12,4 @@
 Функциональное, UX/UI, исследовательское, кроссбраузерное, адаптивное тестирование, ретест
 
 > Результат: повышена стабильность сервиса и доверие пользователей.
-> Отчет в рамках первого тестирования: https://docs.google.com/document/d/1KhoWOUBiGCE0FYNXOvol-NGzSwRij6HyHXPfiRlXF08/edit?tab=t.0
+> [Посмотреть отчёт первого тестирования](https://docs.google.com/document/d/1KhoWOUBiGCE0FYNXOvol-NGzSwRij6HyHXPfiRlXF08/edit?tab=t.0)
