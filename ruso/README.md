@@ -13,4 +13,4 @@
 Функциональное, UI/UX, визуальное, адаптивное, позитивное и негативное тестирование
 
 > Результат: улучшена доступность ключевых разделов и визуальная целостность сайта.
-> Отчет: https://docs.google.com/spreadsheets/d/1sRTm10hU-vYbcfg73B07DYnMiAvvAVcd2UCjUB6L1AA/edit?gid=1512336707#gid=1512336707 
+> [Посмотреть отчёт](https://docs.google.com/spreadsheets/d/1sRTm10hU-vYbcfg73B07DYnMiAvvAVcd2UCjUB6L1AA/edit?gid=1512336707#gid=1512336707)
