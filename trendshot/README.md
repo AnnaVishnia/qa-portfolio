@@ -12,4 +12,4 @@
 Функциональное, UX/UI, исследовательское, регрессионное тестирование, ретест
 
 > Результат: улучшена логика ИИ и пользовательский путь.
-> Отчет первого тестирования: https://docs.google.com/document/d/13_CTxf6mzrPWKya0Rvvs9VPS9rQsbKFriVbb_-pFbtg/edit?tab=t.0
+> [Посмотреть отчёт первого тестирования](https://docs.google.com/document/d/13_CTxf6mzrPWKya0Rvvs9VPS9rQsbKFriVbb_-pFbtg/edit?tab=t.0)
