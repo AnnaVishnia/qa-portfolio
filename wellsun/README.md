@@ -12,6 +12,6 @@
 Исследовательское функциональное и юзабилити-тестирование
 
 > Результат: снижен риск ошибок при заказе, улучшен UX.
-># [Посмотреть отчёт тестирования калькулятора](https://docs.google.com/document/d/1TmvvHiZ8LTkOJFWSooL0oskXEGPKoeOQdpYgh8ipVqY/edit?tab=t.0)
-># [Посмотреть отчёт тестирования корзины](https://docs.google.com/document/d/1iz4Bci92ctIxyfutDO8jZNjtORvsBst9M6_I75kiUjM/edit?tab=t.0)
-># [Посмотреть отчёт юзабилити рекомендаций](https://docs.google.com/document/d/1nCqGE_P6b_JDRkIBS_HOJnUoFlliMtOZwo1ib03tl5E/edit?tab=t.0)
+[Посмотреть отчёт тестирования калькулятора](https://docs.google.com/document/d/1TmvvHiZ8LTkOJFWSooL0oskXEGPKoeOQdpYgh8ipVqY/edit?tab=t.0)
+[Посмотреть отчёт тестирования корзины](https://docs.google.com/document/d/1iz4Bci92ctIxyfutDO8jZNjtORvsBst9M6_I75kiUjM/edit?tab=t.0)
+[Посмотреть отчёт юзабилити рекомендаций](https://docs.google.com/document/d/1nCqGE_P6b_JDRkIBS_HOJnUoFlliMtOZwo1ib03tl5E/edit?tab=t.0)
