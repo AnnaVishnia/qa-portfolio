@@ -12,4 +12,4 @@
 Исследовательское тестирование, анализ по принципам UX-дизайна
 
 > Результат: удобство интерфейса повышено на ~60% по оценке заказчика.
-> Отчет: https://docs.google.com/document/d/156ALIoRuYWdUavGvn_6QdqF_WA7D859M9JIN0-eL88w/edit?tab=t.0
+> Отчет: [Посмотреть отчёт](https://docs.google.com/document/d/156ALIoRuYWdUavGvn_6QdqF_WA7D859M9JIN0-eL88w/edit?tab=t.0)
